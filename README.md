@@ -20,3 +20,7 @@ Simply open the `index.html` file in your preferred web browser, and you can sta
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me.
+
+---
+
+Thank you for checking out my calculator project! Happy calculating!
